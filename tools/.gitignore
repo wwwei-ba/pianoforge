@@ -1,0 +1,16 @@
+# publish only the reusable helpers; the rest are one-off analysis scripts
+*
+!/.gitignore
+!make_icon.py
+!make_shortcut.py
+!migrate_outputs.py
+!summary_table.py
+!align_eval.py
+!ref_compare2.py
+!ref_stats.py
+!ref_detail.py
+!coverage_eval.py
+!score_audit.py
+!check_tuning.py
+!sep6.py
+!audit_durations.py

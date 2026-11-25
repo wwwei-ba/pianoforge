@@ -1,0 +1,59 @@
+# --- run-time data (never commit) -------------------------------------
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# generated audio, scores and caches
+out/
+cache/
+tmp/
+tmp2/
+logs/
+probe/
+dl/
+corpus/
+samples/ref/
+bin/
+
+# local machine configuration
+python_medium.txt
+*.local.json
+cache/settings.json
+
+# build artefacts
+PianoForge.exe
+*.lnk
+*.log
+*.wav
+*.ogg
+*.mp3
+*.pdf
+!docs/**/*.pdf
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# one-off development probes kept on disk but not published
+tests/probe_*.py
+tests/diag_*.py
+tests/dump_*.py
+tests/speedtest.py
+tests/mirrors.py
+tests/proxy_probe.py
+tests/svg2png.py
+tests/inspect_part*.py
+tests/bench_winsound.py
+tests/list_explorer_windows.py
+tests/test_compose_long.py
+tools/test_*.py
+tools/il_*.py
+tools/medium_test.py
+tools/who*.py
+tools/reg_probe.py

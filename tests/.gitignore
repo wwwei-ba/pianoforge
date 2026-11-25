@@ -1,0 +1,15 @@
+# publish the maintained suites only
+*
+!/.gitignore
+!test_final_sweep.py
+!test_pipeline_smoke.py
+!test_leaf_playback.py
+!test_state_consistency.py
+!test_ui_behaviour.py
+!test_viewer_scroll.py
+!test_window_icon.py
+!test_open_folder.py
+!test_density.py
+!test_writer.py
+!validate_musicxml.py
+!capture_ui.py
