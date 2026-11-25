@@ -1,5 +1,11 @@
 # PianoForge · 音频 → 钢琴谱 + 指弹吉他谱 + 钢琴音轨
 
+> **⚠️ 初代版本 / First release**
+>
+> 此项目为初代版本，功能与效果仍在打磨。若遇到 bug、转谱异常或想反馈建议，欢迎联系 **QQ：3790504481**。
+>
+> This is the first generation of PianoForge — rough edges are expected. If you hit a bug or want to share feedback, reach me on **QQ: 3790504481**.
+
 把任意一首歌的音频文件转成可以直接编辑、打印、弹奏的四个文件：
 
 | 输出 | 文件 | 用途 |
