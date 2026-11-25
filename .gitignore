@@ -61,3 +61,4 @@ tools/reg_probe.py
 # exported bundles / zips
 dist/
 *.bundle
+.github/workflows/
