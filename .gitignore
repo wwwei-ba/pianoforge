@@ -57,3 +57,7 @@ tools/il_*.py
 tools/medium_test.py
 tools/who*.py
 tools/reg_probe.py
+
+# exported bundles / zips
+dist/
+*.bundle
